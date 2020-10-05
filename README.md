@@ -1,2 +1,2 @@
-# resume
-Jonathan Li Resume
+# Resume
+hosting resume pdf 
